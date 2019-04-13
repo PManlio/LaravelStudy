@@ -11,22 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-  $tasks = [
-    'Go to the store',
-    'Go to the market',
-    'Go to work',
-    'Go to university',
-    'Go to idk'
-  ];
-
-  return view('welcome')->withTasks($tasks)->withFoo('foo');
-});
-
-Route::get('/contact', function () {
-  return view('contact');
-});
-
-Route::get('/about', function () {
-  return view('about');
-});
+Route::get('/', 'PagesController@home');
+Route::get('/contact', 'PagesController@contact');
+Route::get('/about', 'PagesController@about');
