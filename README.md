@@ -3,6 +3,6 @@ Here i put my first-steps website in Laravel. Here I'll create a wiki from newbi
 
 Go check the <a href='https://github.com/PManlio/LaravelStudy/wiki'>Wiki</a>
 
-Update: Heya folks, i'm busy with university exams and projects, so wiki will continue as soon as I get enough time to continue writing it! (I think this got much helpful than I thought)
+Update: Heya folks, I'm busy with university exams and projects, so wiki will continue as soon as I get enough time to continue writing it! (I think this wiki is more helpful than I thought)
 
 So stay tuned!
